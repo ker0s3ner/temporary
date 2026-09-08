@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">App logo</title>
+  <desc id="desc">Four overlapping pale gray rounded petals forming a pinwheel.</desc>
+  <g fill="none" stroke="#d8d8d8" stroke-width="22" stroke-linecap="round" opacity=".92">
+    <path d="M128 128 C88 112 80 78 96 58 C112 38 144 48 152 78 C158 98 148 118 128 128Z" fill="#d8d8d8" stroke="none"/>
+    <path d="M128 128 C144 88 178 80 198 96 C218 112 208 144 178 152 C158 158 138 148 128 128Z" fill="#bdbdbd" stroke="none"/>
+    <path d="M128 128 C168 144 176 178 160 198 C144 218 112 208 104 178 C98 158 108 138 128 128Z" fill="#d8d8d8" stroke="none"/>
+    <path d="M128 128 C112 168 78 176 58 160 C38 144 48 112 78 104 C98 98 118 108 128 128Z" fill="#bdbdbd" stroke="none"/>
+    <circle cx="128" cy="128" r="17" fill="#eeeeee" stroke="none"/>
+  </g>
+</svg>
